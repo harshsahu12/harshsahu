@@ -1,14 +1,14 @@
 # 💫 About Me:
 From a young age, I've been captivated by the process of building and understanding the inner workings of technology and the art of building applications from scratch. Now at 18 and pursuing my education as a Commerce student, but my fascination with software development continues to grow. My journey has been marked by a relentless pursuit of knowledge, and I'm eager to apply this passion to creating innovative solutions.
 
-# My Skills:
+# 👌 My Skills:
 Language<br />
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,sql,html,css)](https://skillicons.dev)
 
 Libary<br />
 
-[![My Skills](https://skillicons.dev/icons?i=spring,maven,express,react,next,reactNative,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,maven,express,react,next,native,redux)](https://skillicons.dev)
 
 Database's<br />
 
