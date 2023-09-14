@@ -4,7 +4,7 @@ From a young age, I've been captivated by the process of building and understand
 # 👌 My Skills:
 Language<br />
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,node,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,node.js,html,css)](https://skillicons.dev)
 
 Libary<br />
 
