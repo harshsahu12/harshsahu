@@ -3,7 +3,15 @@ From a young age, I've been captivated by the process of building and understand
 
 # My Skills:
 Language<br />
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
+
+Libary<br />
+
+[![My Skills](https://skillicons.dev/icons?i=springboot,maven,express,react,next,react_native,redux)](https://skillicons.dev)
+
+Database's
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshsahu12&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
