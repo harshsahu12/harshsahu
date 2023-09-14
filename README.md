@@ -10,7 +10,7 @@ Language<br />
 
 Libary<br />
 
-[![My Skills](https://skillicons.dev/icons?i=spring,maven,express,react,next,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,maven,express,react,next,redux,tailwindcss)](https://skillicons.dev)
 
 Database's<br />
 
