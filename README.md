@@ -8,9 +8,10 @@ Language<br />
 
 Libary<br />
 
-[![My Skills](https://skillicons.dev/icons?i=springboot,maven,express,react,next,react_native,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,maven,express,react,next,reactNative,redux)](https://skillicons.dev)
 
-Database's
+Database's<br />
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
