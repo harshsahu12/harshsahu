@@ -4,11 +4,11 @@ From a young age, I've been captivated by the process of building and understand
 # 👌 My Skills:
 Language<br />
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,html,css)](https://skillicons.dev)
 
 Libary<br />
 
-[![My Skills](https://skillicons.dev/icons?i=spring,maven,express,react,next,redux,android,ios)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,maven,expressjs,react,next,redux)](https://skillicons.dev)
 
 Database's<br />
 
