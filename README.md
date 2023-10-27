@@ -15,8 +15,3 @@ Libary<br />
 Database's<br />
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshsahu12&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshsahu12&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsahu12&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
