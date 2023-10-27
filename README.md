@@ -6,11 +6,11 @@ From a young age, I've been captivated by the process of building and understand
 # 👌 My Skills:
 Language<br />
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html)](https://skillicons.dev)
 
-Libary<br />
+Framework<br />
 
-[![My Skills](https://skillicons.dev/icons?i=spring,maven,hibernate,express,react,next,redux,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,maven,nodejs,express,hibernate,react,next,redux,tailwindcss)](https://skillicons.dev)
 
 Database's<br />
 
